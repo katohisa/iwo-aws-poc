@@ -52,7 +52,7 @@
                 "servicecatalog:ProvisionProduct",
                 "servicecatalog:DescribeRecord",
                 "servicecatalog:ListLaunchPaths",
-                "savingsplans:DescribeSavingsPlans",
+                "savingsplans:DescribeSavingsPlans"
             ],
             "Resource": "*"
         }
