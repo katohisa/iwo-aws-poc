@@ -1,0 +1,39 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "VisualEditor0",
+            "Effect": "Allow",
+            "Action": [
+                "autoscaling:DescribeAutoScalingGroups",
+                "cloudwatch:GetMetricStatistics",
+                "cloudwatch:ListMetrics",
+                "cloudwatch:GetMetricData",
+                "ec2:DescribeSpotInstanceRequests",
+                "ec2:DescribeAvailabilityZones",
+                "ec2:DescribeInstances",
+                "ec2:DescribeImages",
+                "ec2:DescribeVolumes",
+                "ec2:DescribeVolumeStatus",
+                "ec2:DescribeVolumesModifications",
+                "ec2:DescribeAddresses",
+                "ec2:DescribeRegions",
+                "ec2:DescribeReservedInstances",
+                "ec2:DescribeReservedInstancesModifications",
+                "ec2:DescribeSpotPriceHistory",
+                "ec2:DescribeAccountAttributes",
+                "elasticloadbalancing:DescribeTargetGroups",
+                "elasticloadbalancing:DescribeTargetHealth",
+                "elasticloadbalancing:DescribeLoadBalancers",
+                "elasticloadbalancing:DescribeInstanceHealth",
+                "iam:GetUser",
+                "organizations:DescribeOrganization",
+                "organizations:ListAccounts",
+                "rds:DescribeDBInstances",
+                "rds:ListTagsForResource",
+                "servicecatalog:SearchProducts"
+            ],
+            "Resource": "*"
+        }
+    ]
+}
