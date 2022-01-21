@@ -32,6 +32,7 @@
                 "rds:DescribeDBInstances",
                 "rds:ListTagsForResource",
                 "servicecatalog:SearchProducts",
+                "savingsplans:DescribeSavingsPlans",
                 "ce:GetReservationUtilization",
                 "ce:GetSavingsPlansUtilizationDetails",
                 "ce:GetSavingsPlansUtilization",

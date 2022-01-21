@@ -31,7 +31,8 @@
                 "organizations:ListAccounts",
                 "rds:DescribeDBInstances",
                 "rds:ListTagsForResource",
-                "servicecatalog:SearchProducts"
+                "servicecatalog:SearchProducts",
+                "savingsplans:DescribeSavingsPlans"
             ],
             "Resource": "*"
         }
