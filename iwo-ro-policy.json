@@ -33,7 +33,7 @@
                 "rds:ListTagsForResource",
                 "rds:DescribeDBParameters",
                 "rds:DescribeOrderableDBInstanceOptions",
-		        "pi:GetResourceMetrics",
+                "pi:GetResourceMetrics",
                 "servicecatalog:SearchProducts",
                 "savingsplans:DescribeSavingsPlans"
             ],
