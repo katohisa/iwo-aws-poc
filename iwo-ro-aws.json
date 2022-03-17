@@ -30,6 +30,7 @@
                 "organizations:DescribeOrganization",
                 "organizations:ListAccounts",
                 "rds:DescribeDBInstances",
+                "rds:DescribeDBClusters",
                 "rds:ListTagsForResource",
                 "rds:DescribeDBParameters",
                 "rds:DescribeOrderableDBInstanceOptions",

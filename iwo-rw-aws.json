@@ -34,6 +34,7 @@
                 "rds:ListTagsForResource",
                 "rds:DescribeOrderableDBInstanceOptions",
                 "rds:ModifyDBInstance",
+                "rds:DescribeDBClusters",
                 "pi:GetResourceMetrics",	
                 "servicecatalog:SearchProducts",
                 "autoscaling:SuspendProcesses",
